@@ -1,0 +1,6 @@
+import pandas as pd
+import os
+
+input1 = "../../50 KM Group/Royalties/Statements/Karen/Earth/Combined statements/Earth_2022Q4_2025Q1_1_raw_combined.csv"
+input2 = "../../50 KM Group/Royalties/Statements/Karen/Earth/2025 Q2/Earth_2025 Q2_raw_combined.csv"
+outputfilename = "../../50 KM Group/Royalties/Statements/Karen/_output/Earth_2022Q4_2025Q2_1_raw_combined.csv"
